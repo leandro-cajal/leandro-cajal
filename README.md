@@ -15,8 +15,8 @@ I build and design human-centered experiences for the web.
 ⚡ Fun fact: I love solving problems and transforming ideas into engaging digital realities, ensuring every project offers a seamless and intuitive user experience.
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/leandro-javier-cajal-996899128/)
-- [GitHub](https://github.com/leandro-cajal)
+- [![LinkedIn](https://icon.icepanel.io/Technology/svg/LinkedIn.svg)](tu_enlace_de_LinkedIn)
+
 
 ## Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -26,7 +26,7 @@ I build and design human-centered experiences for the web.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
