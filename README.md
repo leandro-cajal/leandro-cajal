@@ -6,7 +6,7 @@ I build and design human-centered experiences for the web.
 
 🌱 I’m currently practicing Next.js and learning C# with .NET.
 
-👨‍💻 All of my projects are available at [https://leandro-cajal.netlify.app/](https://leandro-cajal.netlify.app/)
+👨‍💻 All of my projects are available at [https://leandro-cajal.netlify.app/work/](https://leandro-cajal.netlify.app/work/)
 
 💬 Ask me about Frontend Development or SEO strategies for bilingual websites.
 
