@@ -15,9 +15,9 @@ I build and design human-centered experiences for the web.
 ⚡ Fun fact: I love solving problems and transforming ideas into engaging digital realities, ensuring every project offers a seamless and intuitive user experience.
 
 ## Connect with me:
-- <a href="https://www.linkedin.com/in/leandro-javier-cajal-996899128/">
+<a href="https://www.linkedin.com/in/leandro-javier-cajal-996899128/">
     <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="max-width: 40px; max-height: 40px;">
-  </a>
+</a>
 
 
 ## Languages and Tools:
